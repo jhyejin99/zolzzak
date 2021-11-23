@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".Fragment.CreatePostFragment">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:id="@+id/create_post_top"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:translationZ="7dp"
+        android:layout_alignParentTop="true"
+        android:background="@color/white">
+
+        <ImageView
+            android:id="@+id/create_post_back_btn"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:src="@drawable/ic_baseline_keyboard_arrow_left_24"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <TextView
+            android:id="@+id/textView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="게시글 작성"
+            android:textColor="@color/main"
+            android:textSize="15sp"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <TextView
+            android:id="@+id/create_post_btn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:padding="10dp"
+            android:text="확인"
+            android:textColor="@color/main"
+            android:textSize="16sp"
+            android:textStyle="bold"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+    </androidx.constraintlayout.widget.ConstraintLayout>
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:translationZ="7dp"
+        android:background="@color/main"
+        android:layout_below="@id/create_post_top"/>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@id/create_post_top"
+        android:scrollbars="none">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="218dp"
+                android:layout_margin="5dp">
+
+                <androidx.recyclerview.widget.RecyclerView
+                    android:id="@+id/create_post_img_recyclerview"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal"
+                    android:padding="3dp"
+                    android:scaleType="centerCrop" />
+
+                <ImageView
+                    android:id="@+id/create_post_img_btn"
+                    android:layout_width="35dp"
+                    android:layout_height="35dp"
+                    android:layout_alignParentEnd="true"
+                    android:layout_alignParentBottom="true"
+                    android:layout_marginStart="15sp"
+                    android:layout_marginTop="15sp"
+                    android:layout_marginEnd="15sp"
+                    android:layout_marginBottom="15sp"
+                    android:src="@drawable/ic_baseline_library_add_24" />
+
+                <TextView
+                    android:id="@+id/create_post_img_text"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentBottom="true"
+                    android:gravity="center"
+                    android:text="최대 10장까지 선택 가능합니다."
+                    android:textColor="@color/dark_gray"
+                    android:textSize="11sp" />
+
+            </RelativeLayout>
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:background="@color/main"
+                android:layout_marginHorizontal="10dp"
+                android:layout_marginBottom="5dp"/>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginHorizontal="15sp"
+                android:orientation="horizontal"
+                android:layout_marginVertical="5dp">
+
+                <TextView
+                    android:layout_width="70dp"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:text="카테고리"
+                    android:textColor="@color/dark_gray"
+                    android:textSize="14sp"/>
+
+                <Spinner
+                    android:backgroundTint="@color/main"
+                    android:id="@+id/create_post_category_spinner"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical"
+                    android:spinnerMode="dropdown" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginHorizontal="15sp"
+                android:layout_marginVertical="5dp"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:layout_width="70dp"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:text="주소"
+                    android:textColor="@color/dark_gray"
+                    android:textSize="14sp" />
+
+                <EditText
+                    android:background="@drawable/result_content_background"
+                    android:id="@+id/create_post_address"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="8"
+                    android:inputType="text"
+                    android:padding="10dp"
+                    android:hint="주소를 입력해주세요"
+                    android:textColor="@color/dark_gray"
+                    android:textSize="13sp" />
+
+                <ImageView
+                    android:layout_marginStart="5dp"
+                    android:id="@+id/create_post_address_btn"
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:src="@drawable/ic_baseline_search_24" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginHorizontal="15sp"
+                android:layout_marginVertical="5dp"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:layout_width="70dp"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:text="별점"
+                    android:textColor="@color/dark_gray"
+                    android:textSize="14sp"/>
+
+                <com.willy.ratingbar.BaseRatingBar
+                    android:id="@+id/create_post_score"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:isIndicator="true"
+                    android:numStars="5"
+                    app:srb_minimumStars="1"
+                    app:srb_starHeight="20dp"
+                    app:srb_starWidth="20dp"
+                    app:srb_starPadding="2dp"
+                    app:srb_drawableFilled ="@drawable/star"
+                    app:srb_drawableEmpty="@drawable/empty_star"
+                    android:stepSize="0.5" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginHorizontal="15sp"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:layout_width="70dp"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:text="공개여부"
+                    android:textColor="@color/dark_gray"
+                    android:textSize="14sp" />
+
+                <RadioGroup
+                    android:id="@+id/post_list_radiogroup_open_state"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal">
+
+                    <RadioButton
+                        android:id="@+id/create_post_radio_open"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginEnd="10dp"
+                        android:buttonTint="@color/main"
+                        android:checked="true"
+                        android:text="공개"
+                        android:textSize="13sp" />
+
+                    <RadioButton
+                        android:id="@+id/create_post_radio_private"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginEnd="10dp"
+                        android:buttonTint="@color/main"
+                        android:text="비공개"
+                        android:textSize="13sp" />
+
+                </RadioGroup>
+            </LinearLayout>
+
+            <EditText
+                android:id="@+id/create_post_content_edit"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginHorizontal="15dp"
+                android:background="@drawable/result_content_background"
+                android:gravity="start|top"
+                android:lines="6"
+                android:inputType="textMultiLine"
+                android:hint="내용을 입력하세요"
+                android:padding="10dp"
+                android:textColor="@color/dark_gray"
+                android:textSize="14sp" />
+
+        </LinearLayout>
+    </ScrollView>
+
+</RelativeLayout>

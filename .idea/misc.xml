@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/vol1m/AndroidStudioProjects/Zolzzak2/app/src/main/res/drawable-v24/ic_baseline_person_24_mainColor.xml" value="0.3640625" />
+        <entry key="..\:/Users/vol1m/AndroidStudioProjects/Zolzzak2/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.3640625" />
+        <entry key="..\:/Users/vol1m/AndroidStudioProjects/Zolzzak2/app/src/main/res/drawable-xxxhdpi/ic_launcher_foreground.xml" value="0.20833333333333334" />
+        <entry key="..\:/Users/vol1m/AndroidStudioProjects/Zolzzak2/app/src/main/res/drawable/button_drawable.xml" value="0.3640625" />
+        <entry key="..\:/Users/vol1m/AndroidStudioProjects/Zolzzak2/app/src/main/res/drawable/button_drawble.xml" value="0.3640625" />
+        <entry key="..\:/Users/vol1m/AndroidStudioProjects/Zolzzak2/app/src/main/res/drawable/comment_background.xml" value="0.32222222222222224" />
+        <entry key="..\:/Users/vol1m/AndroidStudioProjects/Zolzzak2/app/src/main/res/drawable/custom_rating_bar.xml" value="0.11481481481481481" />
+        <entry key="..\:/Users/vol1m/AndroidStudioProjects/Zolzzak2/app/src/main/res/drawable/custom_rating_bar_false.xml" value="0.18981481481481483" />
+        <entry key="..\:/Users/vol1m/AndroidStudioProjects/Zolzzak2/app/src/main/res/drawable/custom_rating_bar_true.xml" value="0.25052083333333336" />
+        <entry key="..\:/Users/vol1m/AndroidStudioProjects/Zolzzak2/app/src/main/res/drawable/ic_baseline_add_box_24.xml" value="0.15" />
+        <entry key="..\:/Users/vol1m/AndroidStudioProjects/Zolzzak2/app/src/main/res/drawable/ic_baseline_add_circle_24.xml" value="0.15" />
+        <entry key="..\:/Users/vol1m/AndroidStudioProjects/Zolzzak2/app/src/main/res/drawable/ic_baseline_comment_24.xml" value="0.3640625" />
+        <entry key="..\:/Users/vol1m/AndroidStudioProjects/Zolzzak2/app/src/main/res/drawable/ic_baseline_content_copy_24.xml" value="0.25277777777777777" />
+        <entry key="..\:/Users/vol1m/AndroidStudioProjects/Zolzzak2/app/src/main/res/drawable/ic_baseline_emoji_emotions_24.xml" value="0.3640625" />
+        <entry key="..\:/Users/vol1m/AndroidStudioProjects/Zolzzak2/app/src/main/res/drawable/ic_baseline_favorite_24.xml" value="0.3640625" />
+        <entry key="..\:/Users/vol1m/AndroidStudioProjects/Zolzzak2/app/src/main/res/drawable/ic_baseline_favorite_border_24.xml" value="0.3640625" />
+        <entry key="..\:/Users/vol1m/AndroidStudioProjects/Zolzzak2/app/src/main/res/drawable/ic_baseline_flip_camera_ios_24.xml" value="0.3640625" />
+        <entry key="..\:/Users/vol1m/AndroidStudioProjects/Zolzzak2/app/src/main/res/drawable/ic_baseline_keyboard_arrow_left_24.xml" value="0.3640625" />
+        <entry key="..\:/Users/vol1m/AndroidStudioProjects/Zolzzak2/app/src/main/res/drawable/ic_baseline_keyboard_arrow_right_24.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/vol1m/AndroidStudioProjects/Zolzzak2/app/src/main/res/drawable/ic_baseline_label_24.xml" value="0.3640625" />
+        <entry key="..\:/Users/vol1m/AndroidStudioProjects/Zolzzak2/app/src/main/res/drawable/ic_baseline_library_add_24.xml" value="0.26481481481481484" />
+        <entry key="..\:/Users/vol1m/AndroidStudioProjects/Zolzzak2/app/src/main/res/drawable/ic_baseline_location_on_24.xml" value="0.3640625" />
+        <entry key="..\:/Users/vol1m/AndroidStudioProjects/Zolzzak2/app/src/main/res/drawable/ic_baseline_menu_24.xml" value="0.3640625" />
+        <entry key="..\:/Users/vol1m/AndroidStudioProjects/Zolzzak2/app/src/main/res/drawable/ic_baseline_more_horiz_24.xml" value="0.3640625" />
+        <entry key="..\:/Users/vol1m/AndroidStudioProjects/Zolzzak2/app/src/main/res/drawable/ic_baseline_more_vert_24.xml" value="0.3640625" />
+        <entry key="..\:/Users/vol1m/AndroidStudioProjects/Zolzzak2/app/src/main/res/drawable/ic_baseline_person_24.xml" value="0.3640625" />
+        <entry key="..\:/Users/vol1m/AndroidStudioProjects/Zolzzak2/app/src/main/res/drawable/ic_baseline_person_pin_24.xml" value="0.3640625" />
+        <entry key="..\:/Users/vol1m/AndroidStudioProjects/Zolzzak2/app/src/main/res/drawable/ic_baseline_post_add_24.xml" value="0.24583333333333332" />
+        <entry key="..\:/Users/vol1m/AndroidStudioProjects/Zolzzak2/app/src/main/res/drawable/ic_baseline_search_24.xml" value="0.3640625" />
+        <entry key="..\:/Users/vol1m/AndroidStudioProjects/Zolzzak2/app/src/main/res/drawable/ic_baseline_search_24_white.xml" value="0.20833333333333334" />
+        <entry key="..\:/Users/vol1m/AndroidStudioProjects/Zolzzak2/app/src/main/res/drawable/ic_baseline_settings_24.xml" value="0.3640625" />
+        <entry key="..\:/Users/vol1m/AndroidStudioProjects/Zolzzak2/app/src/main/res/drawable/ic_baseline_thumb_up_alt_24.xml" value="0.3640625" />
+        <entry key="..\:/Users/vol1m/AndroidStudioProjects/Zolzzak2/app/src/main/res/drawable/ic_launcher_background.xml" value="0.3640625" />
+        <entry key="..\:/Users/vol1m/AndroidStudioProjects/Zolzzak2/app/src/main/res/drawable/ic_outline_chat_bubble_outline_24.xml" value="0.3640625" />
+        <entry key="..\:/Users/vol1m/AndroidStudioProjects/Zolzzak2/app/src/main/res/drawable/ic_outline_emoji_emotions_24.xml" value="0.3640625" />
+        <entry key="..\:/Users/vol1m/AndroidStudioProjects/Zolzzak2/app/src/main/res/drawable/ic_outline_label_24.xml" value="0.3640625" />
+        <entry key="..\:/Users/vol1m/AndroidStudioProjects/Zolzzak2/app/src/main/res/drawable/ic_outline_location_on_24.xml" value="0.3640625" />
+        <entry key="..\:/Users/vol1m/AndroidStudioProjects/Zolzzak2/app/src/main/res/drawable/ic_outline_person_pin_circle_24.xml" value="0.3640625" />
+        <entry key="..\:/Users/vol1m/AndroidStudioProjects/Zolzzak2/app/src/main/res/drawable/ic_outline_settings_24.xml" value="0.3640625" />
+        <entry key="..\:/Users/vol1m/AndroidStudioProjects/Zolzzak2/app/src/main/res/drawable/ic_outline_thumb_up_alt_24.xml" value="0.3640625" />
+        <entry key="..\:/Users/vol1m/AndroidStudioProjects/Zolzzak2/app/src/main/res/drawable/img_size_background.xml" value="0.32222222222222224" />
+        <entry key="..\:/Users/vol1m/AndroidStudioProjects/Zolzzak2/app/src/main/res/drawable/indicator_selected_dot.xml" value="0.25277777777777777" />
+        <entry key="..\:/Users/vol1m/AndroidStudioProjects/Zolzzak2/app/src/main/res/drawable/indicator_unselected_dot.xml" value="0.25277777777777777" />
+        <entry key="..\:/Users/vol1m/AndroidStudioProjects/Zolzzak2/app/src/main/res/drawable/like_button_drawble.xml" value="0.23981481481481481" />
+        <entry key="..\:/Users/vol1m/AndroidStudioProjects/Zolzzak2/app/src/main/res/drawable/likes_bg.xml" value="0.3640625" />
+        <entry key="..\:/Users/vol1m/AndroidStudioProjects/Zolzzak2/app/src/main/res/drawable/post_content_background.xml" value="0.21944444444444444" />
+        <entry key="..\:/Users/vol1m/AndroidStudioProjects/Zolzzak2/app/src/main/res/drawable/post_detail_like_drawable.xml" value="0.22592592592592592" />
+        <entry key="..\:/Users/vol1m/AndroidStudioProjects/Zolzzak2/app/src/main/res/drawable/result_content_background.xml" value="0.18981481481481483" />
+        <entry key="..\:/Users/vol1m/AndroidStudioProjects/Zolzzak2/app/src/main/res/drawable/toggle_drawble.xml" value="0.3640625" />
+        <entry key="..\:/Users/vol1m/AndroidStudioProjects/Zolzzak2/app/src/main/res/layout/activity_admin_login.xml" value="0.209375" />
+        <entry key="..\:/Users/vol1m/AndroidStudioProjects/Zolzzak2/app/src/main/res/layout/activity_login.xml" value="0.34629629629629627" />
+        <entry key="..\:/Users/vol1m/AndroidStudioProjects/Zolzzak2/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/vol1m/AndroidStudioProjects/Zolzzak2/app/src/main/res/layout/activity_search.xml" value="0.33" />
+        <entry key="..\:/Users/vol1m/AndroidStudioProjects/Zolzzak2/app/src/main/res/layout/activity_set_profile.xml" value="0.33" />
+        <entry key="..\:/Users/vol1m/AndroidStudioProjects/Zolzzak2/app/src/main/res/layout/activity_splash.xml" value="0.190625" />
+        <entry key="..\:/Users/vol1m/AndroidStudioProjects/Zolzzak2/app/src/main/res/layout/admin_category_view.xml" value="0.33" />
+        <entry key="..\:/Users/vol1m/AndroidStudioProjects/Zolzzak2/app/src/main/res/layout/admin_member_item_view.xml" value="0.18" />
+        <entry key="..\:/Users/vol1m/AndroidStudioProjects/Zolzzak2/app/src/main/res/layout/admin_notice_item_view.xml" value="0.1691995947315096" />
+        <entry key="..\:/Users/vol1m/AndroidStudioProjects/Zolzzak2/app/src/main/res/layout/banner_layout.xml" value="0.16717325227963525" />
+        <entry key="..\:/Users/vol1m/AndroidStudioProjects/Zolzzak2/app/src/main/res/layout/category_radio_button_item_view.xml" value="0.34791666666666665" />
+        <entry key="..\:/Users/vol1m/AndroidStudioProjects/Zolzzak2/app/src/main/res/layout/categoty_view.xml" value="0.25" />
+        <entry key="..\:/Users/vol1m/AndroidStudioProjects/Zolzzak2/app/src/main/res/layout/comment_view.xml" value="0.25" />
+        <entry key="..\:/Users/vol1m/AndroidStudioProjects/Zolzzak2/app/src/main/res/layout/detail_image_view.xml" value="0.19927536231884058" />
+        <entry key="..\:/Users/vol1m/AndroidStudioProjects/Zolzzak2/app/src/main/res/layout/edit_category_dialog.xml" value="0.25" />
+        <entry key="..\:/Users/vol1m/AndroidStudioProjects/Zolzzak2/app/src/main/res/layout/fragment_address.xml" value="0.16894630192502533" />
+        <entry key="..\:/Users/vol1m/AndroidStudioProjects/Zolzzak2/app/src/main/res/layout/fragment_admin.xml" value="0.18297101449275363" />
+        <entry key="..\:/Users/vol1m/AndroidStudioProjects/Zolzzak2/app/src/main/res/layout/fragment_admin_category.xml" value="0.25" />
+        <entry key="..\:/Users/vol1m/AndroidStudioProjects/Zolzzak2/app/src/main/res/layout/fragment_admin_create_notice.xml" value="0.25" />
+        <entry key="..\:/Users/vol1m/AndroidStudioProjects/Zolzzak2/app/src/main/res/layout/fragment_admin_member.xml" value="0.25" />
+        <entry key="..\:/Users/vol1m/AndroidStudioProjects/Zolzzak2/app/src/main/res/layout/fragment_admin_notice.xml" value="0.25" />
+        <entry key="..\:/Users/vol1m/AndroidStudioProjects/Zolzzak2/app/src/main/res/layout/fragment_admin_notice_detail.xml" value="0.25" />
+        <entry key="..\:/Users/vol1m/AndroidStudioProjects/Zolzzak2/app/src/main/res/layout/fragment_adress.xml" value="0.1" />
+        <entry key="..\:/Users/vol1m/AndroidStudioProjects/Zolzzak2/app/src/main/res/layout/fragment_all_post_list.xml" value="0.3038949275362319" />
+        <entry key="..\:/Users/vol1m/AndroidStudioProjects/Zolzzak2/app/src/main/res/layout/fragment_app_info.xml" value="0.33" />
+        <entry key="..\:/Users/vol1m/AndroidStudioProjects/Zolzzak2/app/src/main/res/layout/fragment_app_notice.xml" value="0.16717325227963525" />
+        <entry key="..\:/Users/vol1m/AndroidStudioProjects/Zolzzak2/app/src/main/res/layout/fragment_comment_detail.xml" value="0.30714285714285716" />
+        <entry key="..\:/Users/vol1m/AndroidStudioProjects/Zolzzak2/app/src/main/res/layout/fragment_create_post.xml" value="0.25" />
+        <entry key="..\:/Users/vol1m/AndroidStudioProjects/Zolzzak2/app/src/main/res/layout/fragment_edit_category.xml" value="0.17300724637681159" />
+        <entry key="..\:/Users/vol1m/AndroidStudioProjects/Zolzzak2/app/src/main/res/layout/fragment_edit_post.xml" value="0.31476449275362317" />
+        <entry key="..\:/Users/vol1m/AndroidStudioProjects/Zolzzak2/app/src/main/res/layout/fragment_edit_user.xml" value="0.25" />
+        <entry key="..\:/Users/vol1m/AndroidStudioProjects/Zolzzak2/app/src/main/res/layout/fragment_home.xml" value="0.25" />
+        <entry key="..\:/Users/vol1m/AndroidStudioProjects/Zolzzak2/app/src/main/res/layout/fragment_my_notice.xml" value="0.34375" />
+        <entry key="..\:/Users/vol1m/AndroidStudioProjects/Zolzzak2/app/src/main/res/layout/fragment_my_post.xml" value="0.33" />
+        <entry key="..\:/Users/vol1m/AndroidStudioProjects/Zolzzak2/app/src/main/res/layout/fragment_post_detail.xml" value="0.33" />
+        <entry key="..\:/Users/vol1m/AndroidStudioProjects/Zolzzak2/app/src/main/res/layout/fragment_post_list.xml" value="0.25" />
+        <entry key="..\:/Users/vol1m/AndroidStudioProjects/Zolzzak2/app/src/main/res/layout/fragment_second_location.xml" value="0.33" />
+        <entry key="..\:/Users/vol1m/AndroidStudioProjects/Zolzzak2/app/src/main/res/layout/fragment_set_push.xml" value="0.33" />
+        <entry key="..\:/Users/vol1m/AndroidStudioProjects/Zolzzak2/app/src/main/res/layout/fragment_set_support.xml" value="0.34375" />
+        <entry key="..\:/Users/vol1m/AndroidStudioProjects/Zolzzak2/app/src/main/res/layout/fragment_set_theme.xml" value="0.17481884057971014" />
+        <entry key="..\:/Users/vol1m/AndroidStudioProjects/Zolzzak2/app/src/main/res/layout/fragment_setting.xml" value="0.33" />
+        <entry key="..\:/Users/vol1m/AndroidStudioProjects/Zolzzak2/app/src/main/res/layout/fragment_support.xml" value="0.34791666666666665" />
+        <entry key="..\:/Users/vol1m/AndroidStudioProjects/Zolzzak2/app/src/main/res/layout/fragment_user_edit.xml" value="0.16894630192502533" />
+        <entry key="..\:/Users/vol1m/AndroidStudioProjects/Zolzzak2/app/src/main/res/layout/hash_tag_result_item_view.xml" value="0.33" />
+        <entry key="..\:/Users/vol1m/AndroidStudioProjects/Zolzzak2/app/src/main/res/layout/image_list_view.xml" value="0.34791666666666665" />
+        <entry key="..\:/Users/vol1m/AndroidStudioProjects/Zolzzak2/app/src/main/res/layout/location.xml" value="0.1" />
+        <entry key="..\:/Users/vol1m/AndroidStudioProjects/Zolzzak2/app/src/main/res/layout/location_categoty_view.xml" value="0.34791666666666665" />
+        <entry key="..\:/Users/vol1m/AndroidStudioProjects/Zolzzak2/app/src/main/res/layout/location_list_view.xml" value="0.5" />
+        <entry key="..\:/Users/vol1m/AndroidStudioProjects/Zolzzak2/app/src/main/res/layout/location_post_item_view.xml" value="0.1" />
+        <entry key="..\:/Users/vol1m/AndroidStudioProjects/Zolzzak2/app/src/main/res/layout/main_location_category_view.xml" value="0.34791666666666665" />
+        <entry key="..\:/Users/vol1m/AndroidStudioProjects/Zolzzak2/app/src/main/res/layout/notice_view.xml" value="0.1" />
+        <entry key="..\:/Users/vol1m/AndroidStudioProjects/Zolzzak2/app/src/main/res/layout/post_category_item_view.xml" value="0.171225937183384" />
+        <entry key="..\:/Users/vol1m/AndroidStudioProjects/Zolzzak2/app/src/main/res/layout/post_category_view.xml" value="0.33" />
+        <entry key="..\:/Users/vol1m/AndroidStudioProjects/Zolzzak2/app/src/main/res/layout/post_list_item_view.xml" value="0.33" />
+        <entry key="..\:/Users/vol1m/AndroidStudioProjects/Zolzzak2/app/src/main/res/layout/post_list_view.xml" value="0.16717325227963525" />
+        <entry key="..\:/Users/vol1m/AndroidStudioProjects/Zolzzak2/app/src/main/res/layout/radio_button_category.xml" value="0.34791666666666665" />
+        <entry key="..\:/Users/vol1m/AndroidStudioProjects/Zolzzak2/app/src/main/res/layout/recent_post_item.xml" value="0.16717325227963525" />
+        <entry key="..\:/Users/vol1m/AndroidStudioProjects/Zolzzak2/app/src/main/res/layout/setting_view.xml" value="0.25" />
+        <entry key="..\:/Users/vol1m/AndroidStudioProjects/Zolzzak2/app/src/main/res/layout/simple_comment_view.xml" value="0.5" />
+        <entry key="..\:/Users/vol1m/AndroidStudioProjects/Zolzzak2/app/src/main/res/layout/simple_post_list_item_view.xml" value="0.33" />
+        <entry key="..\:/Users/vol1m/AndroidStudioProjects/Zolzzak2/app/src/main/res/layout/spinner_item_view.xml" value="0.33" />
+        <entry key="..\:/Users/vol1m/AndroidStudioProjects/Zolzzak2/app/src/main/res/layout/tool_bar.xml" value="0.16717325227963525" />
+        <entry key="..\:/Users/vol1m/AndroidStudioProjects/Zolzzak2/app/src/main/res/layout/toolbar_layout.xml" value="0.25" />
+        <entry key="..\:/Users/vol1m/AndroidStudioProjects/Zolzzak2/app/src/main/res/menu/admin_popup.xml" value="0.17592592592592593" />
+        <entry key="..\:/Users/vol1m/AndroidStudioProjects/Zolzzak2/app/src/main/res/menu/category_popup.xml" value="0.18425925925925926" />
+        <entry key="..\:/Users/vol1m/AndroidStudioProjects/Zolzzak2/app/src/main/res/menu/comment_popup.xml" value="0.34791666666666665" />
+        <entry key="..\:/Users/vol1m/AndroidStudioProjects/Zolzzak2/app/src/main/res/menu/edit_image.xml" value="0.34791666666666665" />
+        <entry key="..\:/Users/vol1m/AndroidStudioProjects/Zolzzak2/app/src/main/res/menu/edit_image_popup.xml" value="0.18796296296296297" />
+        <entry key="..\:/Users/vol1m/AndroidStudioProjects/Zolzzak2/app/src/main/res/menu/menu_search.xml" value="0.13333333333333333" />
+        <entry key="..\:/Users/vol1m/AndroidStudioProjects/Zolzzak2/app/src/main/res/menu/tool_bar.xml" value="0.1828125" />
+        <entry key="..\:/Users/vol1m/AndroidStudioProjects/Zolzzak2/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.22314814814814815" />
+        <entry key="..\:/Users/vol1m/AndroidStudioProjects/Zolzzak2/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.22314814814814815" />
+        <entry key="..\:/Users/vol1m/AndroidStudioProjects/Zolzzak2/app/src/main/res/xml/file_paths.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/vol1m/AndroidStudioProjects/Zolzzak2/app/src/main/res/xml/network_security_config.xml" value="0.13425925925925927" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.2" />
+      </ProjectState>
+    </option>
+  </component>
+</project>
